@@ -9,7 +9,7 @@
 - [ ] Allow bleach to sit and work while completing other tasks
 
 ### Apartment B Bathroom  
-- [ ] Remove bath rugs carefully and place it outside. Vacuum, spot clean if needed and spray with vinegar (5% acidity) then air dry
+- [ ] Remove bath rugs carefully and place them outside. Vacuum, spot clean if needed, and spray with vinegar (5% acidity), then air dry
 - [ ] Protect bath curtain from bleach spray
 - [ ] Spray toilet only with bleach
 - [ ] Allow bleach to sit and work while completing other tasks
@@ -80,9 +80,10 @@
 - [ ] **Microwave** - Interior and exterior surfaces
 - [ ] **Small oven** - Interior and exterior
 - [ ] **Stovetop/Oven surfaces** - Remove spills and grease
+- [ ] **Others** - Floor Lamps, Study/Tables, Living room shelves
 
 ### Sanitizing Tasks
-- [ ] **Both refrigerators** - Wipe down and sanitize all surfaces
+- [ ] **Both refrigerators** - Wipe down all surfaces. Use baking soda paste to scrub the insides. Keep in mind the food stored in the fridge if any. Don't keep the fridge door open constantly or turn off the fridge. You can move the food from one fridge to another, taking note of the temperature.
 
 ---
 
@@ -94,7 +95,7 @@ Complete in this order for efficiency:
 - [ ] **Ceiling fans and light fixtures** - Use appropriate attachments
 - [ ] **Kitchen areas** - Floors, cabinets, stovetop storage areas
 - [ ] **Both bathrooms** - Floors and accessible surfaces
-- [ ] **Living room** - Include behind and under sofa
+- [ ] **Living room** - Include behind and under sofa, floor lamps, etc
 
 ---
 
@@ -132,8 +133,9 @@ Complete in this order for efficiency:
 - Bleach
 - Non-perfumed detergent with OxiClean or baking soda
 - Baking soda (for paste)
-- White vinegar
+- White vinegar (5% acidity)
 - Dryer sheets
+- Washable cloths for wiping
 
 ### Tools & Equipment  
 - Mr. Clean sponges
