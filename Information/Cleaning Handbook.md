@@ -41,17 +41,17 @@
 #### White/Colored Casual Clothing & White Linens
 - **Water:** Hot
 - **Setting:** Normal
-- **Drying:** Standard dryer settings
+- **Drying:** Normal and very dry dryer settings
 
 #### Comforters
 - **Water:** Warm  
 - **Setting:** Bulk/Heavy duty
-- **Drying:** Bulk setting
+- **Drying:** Bulk setting and Very dry, pause every 20-30 minutes, re-organize, and hit start button. Do this until evenly dry. 
 - **Tip:** Balance load properly in washer
 
 #### Bath and Hand Towels
 - **Water:** Hot
-- **Setting:** Normal
+- **Setting:** Normal, Very dry
 - **Load:** Wash separately from other items
 
 #### Apartment A Bath Curtains
@@ -67,7 +67,7 @@
 #### Apartment A Bath Rugs (Wash Last)
 - **Setting:** Delicate
 - **Monitor:** Check washer frequently, reposition rugs toward center agitator if needed
-- **Drying:** Normal setting
+- **Drying:** Normal setting then delicate setting
 
 ### Laundry Supplies & Maintenance
 - **Detergent:** Non-perfumed with OxiClean or baking soda
