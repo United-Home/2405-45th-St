@@ -110,7 +110,7 @@ Complete in this order for efficiency:
 ## Phase 6: Bathroom Completion
 
 ### Apartment A Bathroom (Final Steps)
-- [ ] **Shower area** - Scrub with Mr. Clean sponge, rinse thoroughly
+- [ ] **Shower area** - Scrub with Mr. Clean sponge, rinse thoroughly. If sponge is not available, use a baking soda paste and a cloth.
 - [ ] **Toilet maintenance** - Clean completely, flush out old bleach tablet, install new bleach tablet in tank
 - [ ] **Light fixtures** - Wipe bulbs and mirror surfaces  
 - [ ] **Bathroom cabinet** - Vacuum and wipe down exterior and interior
@@ -119,7 +119,7 @@ Complete in this order for efficiency:
 - [ ] **Mop floor** - Mop or wipe the floor. Spray with vinegar and let it air dry.
 
 ### Apartment B Bathroom (Final Steps)
-- [ ] **Shower area** - Scrub with Mr. Clean sponge, rinse thoroughly
+- [ ] **Shower area** - Scrub with Mr. Clean sponge, rinse thoroughly. If sponge is not available, use a baking soda paste and a cloth.
 - [ ] **Toilet cleaning** - Clean carefully (note: tank is unstable, handle with care)
 - [ ] **Cabinet maintenance** - Wipe down all cabinet surfaces
 - [ ] **Sink treatment** - Apply baking soda paste, scrub gently with soft brush
@@ -132,7 +132,7 @@ Complete in this order for efficiency:
 ### Cleaning Products
 - Bleach
 - Non-perfumed detergent with OxiClean or baking soda
-- Baking soda (for paste)
+- Baking soda (for paste, add water)
 - White vinegar (5% acidity)
 - Dryer sheets
 - Washable cloths for wiping
