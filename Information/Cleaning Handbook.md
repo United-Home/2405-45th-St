@@ -20,9 +20,9 @@
 
 ### Sorting Guidelines
 **Separate into these categories:**
-- White collared dress shirts
-- White casual tops  
-- Colored casual clothing
+- White collared dress shirts (button up and turn inside out)
+- White casual tops  (turn inside out)
+- Colored casual clothing (turn inside out and inspect pockets for any pants)
 - White linens
 - Comforters/bedding
 - Bath and hand towels
