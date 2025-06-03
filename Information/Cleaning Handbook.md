@@ -26,7 +26,9 @@
 - White linens
 - Comforters/bedding
 - Bath and hand towels
-- Bathroom accessories (curtains, rugs)
+- Bathroom rugs
+- Plastic and White Shower curtains
+- Colored Shower Curtain
 
 ### Washing Instructions
 
@@ -53,8 +55,14 @@
 - **Load:** Wash separately from other items
 
 #### Apartment A Bath Curtains
-- **Special Instructions:** Add 1/4 cup bleach (white/plastic curtains only)
-- **Drying:** Air dry only - do not use dryer
+- **Special Instructions:** Add 1/4 cup bleach (white/plastic curtains only) with detergent. Use warm water and normal setting.
+- **Drying:** Air dry only - do not use dryer. Hang them back to the shower curtain rod.
+
+#### Apartment B Bath Curtains
+- Wash the colored curtain separately
+- Wash the plastic shower curtain with other plastic/white shower curtains
+- Use warm water and normal setting.
+
 
 #### Apartment A Bath Rugs (Wash Last)
 - **Setting:** Delicate
@@ -116,13 +124,17 @@ Complete in this order for efficiency:
 - [ ] **Bathroom cabinet** - Vacuum and wipe down exterior and interior
 - [ ] **Sink deep clean** - Apply baking soda paste, scrub with toothbrush or soft brush, spray with vinegar, allow to air dry
 - [ ] **Under-sink area** - Clean and organize storage space
+- [ ] **Wash the curtain hooks** - Use baking soda paste
+- [ ] ** Hang the Shower Curtain**
 - [ ] **Mop floor** - Mop or wipe the floor. Spray with vinegar and let it air dry.
+- [ ] **Place the clean bath rugs**
 
 ### Apartment B Bathroom (Final Steps)
 - [ ] **Shower area** - Scrub with Mr. Clean sponge, rinse thoroughly. If sponge is not available, use a baking soda paste and a cloth.
 - [ ] **Toilet cleaning** - Clean carefully (note: tank is unstable, handle with care)
 - [ ] **Cabinet maintenance** - Wipe down all cabinet surfaces
 - [ ] **Sink treatment** - Apply baking soda paste, scrub gently with soft brush
+- [ ] **Place the clean bath rugs**
 - [ ] **Mop floor** - Mop or wipe the floor. Spray with vinegar and let it air dry.
 
 ---
