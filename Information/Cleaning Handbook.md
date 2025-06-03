@@ -9,7 +9,7 @@
 - [ ] Allow bleach to sit and work while completing other tasks
 
 ### Apartment B Bathroom  
-- [ ] Remove bath rugs carefully and place them outside. Vacuum, spot clean if needed, and spray with vinegar (5% acidity), then air dry
+- [ ] Remove bath rugs carefully and place them outside. Vacuum, spot clean if needed with baking soda paste, and spray everywhere with vinegar (5% acidity), then air dry
 - [ ] Protect bath curtain from bleach spray
 - [ ] Spray toilet only with bleach
 - [ ] Allow bleach to sit and work while completing other tasks
