@@ -160,3 +160,7 @@ Complete in this order for efficiency:
 3. **Work top to bottom** - Clean ceiling fans before floors
 4. **Batch laundry loads** - Sort everything at once for efficiency
 5. **Return to bathrooms last** - Maximizes bleach contact time
+
+## Trash Management
+
+Trash pick-up is Tuesday for this property. If cleaning is done on Mondays, then set the trash in the curb. Else, place the trash on a bin outside and make sure to cover and put weights on top of the cover so animals don't get to them.
