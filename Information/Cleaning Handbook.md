@@ -173,6 +173,11 @@ Complete in this order for efficiency:
 4. **Batch laundry loads** - Sort everything at once for efficiency
 5. **Return to bathrooms last** - Maximizes bleach contact time
 
+## Vacuum Care
+- wash the filters and the vacuum attachments
+- get the stuck hairs in the brush attachment and brush roll
+- empty the vacuum after use
+
 ## Trash Management
 
 Trash pick-up is Tuesday for this property. If cleaning is done on Mondays, then set the trash in the curb. Else, place the trash on a bin outside and make sure to cover and put weights on top of the cover so animals don't get to them.
