@@ -99,11 +99,15 @@
 
 Complete in this order for efficiency:
 - [ ] **Laundry area** - Floor and surfaces
-- [ ] **Back bedroom** - Floors, corners, baseboards  
+- [ ] **Apt B/Back bedroom** - Floors, corners, baseboards, etc.  
 - [ ] **Ceiling fans and light fixtures** - Use appropriate attachments
 - [ ] **Kitchen areas** - Floors, cabinets, stovetop storage areas
 - [ ] **Both bathrooms** - Floors and accessible surfaces
 - [ ] **Living room** - Include behind and under sofa, floor lamps, etc
+- [ ] **Apt A/Studio 1 bedroom** - Floors, corners, baseboards, etc.; (Might require desk/organization)
+     - Ask the tenant first if they want their room done.
+- [ ] **Apt A/Studio 2 bedroom** - Floors, corners, baseboards, etc.; (Might require desk/organization)
+     - Ask the tenant first if they want their room done.
 
 ---
 
