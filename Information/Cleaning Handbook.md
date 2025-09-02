@@ -71,7 +71,7 @@
 
 ### Laundry Supplies & Maintenance
 - **Detergent:** Non-perfumed with OxiClean or baking soda
-- **Dryer Sheets:** Use with every dryer load
+- **Dryer Sheets:** Use/reuse with every dryer load
 - **Maintenance:** Clean lint trap after every dryer use
 
 ---
