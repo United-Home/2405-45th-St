@@ -3,7 +3,7 @@
 ## Phase 1: Bathroom Setup (Start Here)
 
 ### Apartment A Bathroom
-- [ ] Remove bath rugs and store safely away from cleaning area
+- [ ] Remove bath rugs and store safely away (or air it outside) from cleaning area
 - [ ] Spray shower area with bleach focusing on the floor (avoid metal fixtures)
 - [ ] Spray toilet thoroughly with bleach
 - [ ] Allow bleach to sit and work while completing other tasks
